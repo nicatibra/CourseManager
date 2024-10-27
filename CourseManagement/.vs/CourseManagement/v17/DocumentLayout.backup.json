@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nicha\\OneDrive\\Desktop\\CourseManagementProject\\CourseManagement\\CourseManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F8AC78DE-6098-4A36-8775-359E3F4A106B}|CourseManagement\\CourseManagement.csproj|c:\\users\\nicha\\onedrive\\desktop\\coursemanagementproject\\coursemanagement\\coursemanagement\\coursemanagement\\services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8AC78DE-6098-4A36-8775-359E3F4A106B}|CourseManagement\\CourseManagement.csproj|solutionrelative:coursemanagement\\services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8AC78DE-6098-4A36-8775-359E3F4A106B}|CourseManagement\\CourseManagement.csproj|c:\\users\\nicha\\onedrive\\desktop\\coursemanagementproject\\coursemanagement\\coursemanagement\\coursemanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8AC78DE-6098-4A36-8775-359E3F4A106B}|CourseManagement\\CourseManagement.csproj|solutionrelative:coursemanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8AC78DE-6098-4A36-8775-359E3F4A106B}|CourseManagement\\CourseManagement.csproj|c:\\users\\nicha\\onedrive\\desktop\\coursemanagementproject\\coursemanagement\\coursemanagement\\coursemanagement\\models\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8AC78DE-6098-4A36-8775-359E3F4A106B}|CourseManagement\\CourseManagement.csproj|solutionrelative:coursemanagement\\models\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8AC78DE-6098-4A36-8775-359E3F4A106B}|CourseManagement\\CourseManagement.csproj|c:\\users\\nicha\\onedrive\\desktop\\coursemanagementproject\\coursemanagement\\coursemanagement\\coursemanagement\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8AC78DE-6098-4A36-8775-359E3F4A106B}|CourseManagement\\CourseManagement.csproj|solutionrelative:coursemanagement\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8AC78DE-6098-4A36-8775-359E3F4A106B}|CourseManagement\\CourseManagement.csproj|c:\\users\\nicha\\onedrive\\desktop\\coursemanagementproject\\coursemanagement\\coursemanagement\\coursemanagement\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8AC78DE-6098-4A36-8775-359E3F4A106B}|CourseManagement\\CourseManagement.csproj|solutionrelative:coursemanagement\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8AC78DE-6098-4A36-8775-359E3F4A106B}|CourseManagement\\CourseManagement.csproj|c:\\users\\nicha\\onedrive\\desktop\\coursemanagementproject\\coursemanagement\\coursemanagement\\coursemanagement\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8AC78DE-6098-4A36-8775-359E3F4A106B}|CourseManagement\\CourseManagement.csproj|solutionrelative:coursemanagement\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nicha\\OneDrive\\Desktop\\CourseManagementProject\\CourseManagement\\CourseManagement\\CourseManagement\\Program.cs",
+              "RelativeDocumentMoniker": "CourseManagement\\Program.cs",
+              "ToolTip": "C:\\Users\\nicha\\OneDrive\\Desktop\\CourseManagementProject\\CourseManagement\\CourseManagement\\CourseManagement\\Program.cs",
+              "RelativeToolTip": "CourseManagement\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T19:20:13.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Group.cs",
+              "DocumentMoniker": "C:\\Users\\nicha\\OneDrive\\Desktop\\CourseManagementProject\\CourseManagement\\CourseManagement\\CourseManagement\\Models\\Group.cs",
+              "RelativeDocumentMoniker": "CourseManagement\\Models\\Group.cs",
+              "ToolTip": "C:\\Users\\nicha\\OneDrive\\Desktop\\CourseManagementProject\\CourseManagement\\CourseManagement\\CourseManagement\\Models\\Group.cs",
+              "RelativeToolTip": "CourseManagement\\Models\\Group.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAABsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T19:20:49.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Services.cs",
+              "DocumentMoniker": "C:\\Users\\nicha\\OneDrive\\Desktop\\CourseManagementProject\\CourseManagement\\CourseManagement\\CourseManagement\\Services.cs",
+              "RelativeDocumentMoniker": "CourseManagement\\Services.cs",
+              "ToolTip": "C:\\Users\\nicha\\OneDrive\\Desktop\\CourseManagementProject\\CourseManagement\\CourseManagement\\CourseManagement\\Services.cs",
+              "RelativeToolTip": "CourseManagement\\Services.cs",
+              "ViewState": "AgIAAHABAAAAAAAAAAAgwCcBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T19:21:09.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\nicha\\OneDrive\\Desktop\\CourseManagementProject\\CourseManagement\\CourseManagement\\CourseManagement\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "CourseManagement\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\nicha\\OneDrive\\Desktop\\CourseManagementProject\\CourseManagement\\CourseManagement\\CourseManagement\\Models\\Student.cs",
+              "RelativeToolTip": "CourseManagement\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T19:20:38.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Helper.cs",
+              "DocumentMoniker": "C:\\Users\\nicha\\OneDrive\\Desktop\\CourseManagementProject\\CourseManagement\\CourseManagement\\CourseManagement\\Helper.cs",
+              "RelativeDocumentMoniker": "CourseManagement\\Helper.cs",
+              "ToolTip": "C:\\Users\\nicha\\OneDrive\\Desktop\\CourseManagementProject\\CourseManagement\\CourseManagement\\CourseManagement\\Helper.cs",
+              "RelativeToolTip": "CourseManagement\\Helper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T19:21:20.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Categories.cs",
+              "DocumentMoniker": "C:\\Users\\nicha\\OneDrive\\Desktop\\CourseManagementProject\\CourseManagement\\CourseManagement\\CourseManagement\\Categories.cs",
+              "RelativeDocumentMoniker": "CourseManagement\\Categories.cs",
+              "ToolTip": "C:\\Users\\nicha\\OneDrive\\Desktop\\CourseManagementProject\\CourseManagement\\CourseManagement\\CourseManagement\\Categories.cs",
+              "RelativeToolTip": "CourseManagement\\Categories.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T19:20:58.417Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
